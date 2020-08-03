@@ -1,3 +1,7 @@
 WCC hello world
 
+<<<<<<< HEAD
 HEY
+=======
+This is not hey version
+>>>>>>> hey
